@@ -1,14 +1,31 @@
 *****************************************************************************
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : Tirth Bhupendrabhai Patel 
+Student ID#: 156662215
+Email      : tpatel97@myseneca.ca
+Section    : IPC144 
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
 shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
+
+1. What you have learned in completeing this workshop?
+Answer: I learned the basics of the C programming in this workshop. I learned about
+        the uses of different commands and also about the mistakes one should not make
+        while programming. I learned how to add space between two words using tab command
+        and also how to place a specific sentence into double quote. I also learned the 
+        importance of "printf" command and also about the use of the "main(void)" command.
+ 
+2. Briefly describe what SSH is and how you used it in this workshop?
+Answer: I used the Mobaxterm SSH for this workshop. It was pretty easy to use
+        and also provided great response in return. I created my project in the
+        Visual Studio 2019 edition and used Mobaxterm(SSH) to submit it to my proffesor.
+        
+3. Briefly describe what SFTP is and how you used it in this workshop?
+Answer: I used WinSCP as the SFTP software to submit my work into my matrix account.
+        It is really smooth to use and also shows errors if there is one before copying
+        the work into my student matrix account.
 *****************************************************************************
 
